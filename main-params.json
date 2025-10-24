@@ -1,0 +1,12 @@
+{
+    "location": {
+      "value": "westeurope"
+    },
+    "storageName":{
+      "value":"saprimarylernia"
+    },
+    "kvName":{
+      "value":"kv-lerniaAB"
+    }
+  }
+  
