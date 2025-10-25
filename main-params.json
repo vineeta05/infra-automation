@@ -1,12 +1,18 @@
 {
-    "location": {
-      "value": "westeurope"
-    },
-    "storageName":{
-      "value":"saprimarylernia"
-    },
-    "kvName":{
-      "value":"kv-lerniaAB"
-    }
+  "location": {
+    "value": "westeurope"
+  },
+  "logName":{
+    "value": "log-primary"
+  },
+  "storageName":{
+    "value":"saprimarylernia"
+  },
+  "kvName":{
+    "value":"kv-lerniaAB"
+  },
+  "virtualMachineName":{
+    "value":"lerniaAB-1"
   }
-  
+
+}
